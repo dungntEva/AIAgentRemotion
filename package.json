@@ -1,0 +1,28 @@
+{
+  "name": "ai-agent-remotion",
+  "version": "1.0.0",
+  "description": "Declarative Data-Driven Video Automation with Remotion & React",
+  "private": true,
+  "scripts": {
+    "dev": "remotion studio",
+    "start": "remotion studio",
+    "build": "remotion bundle",
+    "render:promo": "remotion render src/Root.tsx PromoVideo out/PromoVideo.mp4",
+    "render:reel": "remotion render src/Root.tsx DynamicReel out/DynamicReel.mp4",
+    "render:custom": "remotion render src/Root.tsx PromoVideo out/PromoCustom.mp4 --props=./public/data/sample-props.json",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.543",
+    "@remotion/zod-types": "4.0.543",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "remotion": "4.0.543",
+    "zod": "4.6.7"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "typescript": "^5.5.3"
+  }
+}

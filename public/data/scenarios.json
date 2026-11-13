@@ -1,0 +1,50 @@
+{
+  "scenarios": [
+    {
+      "id": "finance-report",
+      "category": "FINANCE REPORT",
+      "headline": "Báo Cáo Tài Chính Q4",
+      "subheadline": "Doanh thu tăng trưởng vượt bậc nhờ tự động hóa AI Video",
+      "metricLabel": "Tăng trưởng ARR",
+      "metricValue": "+184%",
+      "accentColor": "#10B981",
+      "secondaryColor": "#0EA5E9",
+      "highlights": [
+        "12,500+ Video tự động xuất bản",
+        "Tiết kiệm 92% thời gian dựng hậu kỳ",
+        "Đồng bộ 60 FPS chuẩn xác từng frame"
+      ]
+    },
+    {
+      "id": "sports-match",
+      "category": "SPORTS HIGHLIGHT",
+      "headline": "Chung Kết Cúp Vô Địch",
+      "subheadline": "Cập nhật kết quả trực tiếp từ dữ liệu API thời gian thực",
+      "metricLabel": "Tỷ số chung cuộc",
+      "metricValue": "3 - 1",
+      "accentColor": "#F59E0B",
+      "secondaryColor": "#EF4444",
+      "highlights": [
+        "Kiểm soát bóng: 64% - 36%",
+        "Cú sút trúng đích: 11 pha dứt điểm",
+        "Cầu thủ xuất sắc nhất: Nguyễn Quang"
+      ]
+    },
+    {
+      "id": "birthday-greeting",
+      "category": "USER MILESTONE",
+      "headline": "Chúc Mừng Sinh Nhật!",
+      "subheadline": "Cảm ơn bạn đã đồng hành cùng hệ sinh thái AI Agent",
+      "metricLabel": "Số ngày đồng hành",
+      "metricValue": "365 Ngày",
+      "accentColor": "#EC4899",
+      "secondaryColor": "#8B5CF6",
+      "highlights": [
+        "Đã hoàn thành 48 dự án sáng tạo",
+        "Top 1% nhà sáng tạo năng suất nhất",
+        "Quà tặng: 5,000 Credits Render Cloud"
+      ]
+    }
+  ]
+}
+

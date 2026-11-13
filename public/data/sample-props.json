@@ -1,0 +1,14 @@
+{
+  "title": "AI Agent Remotion Batch #01",
+  "subtitle": "Render tự động từ CLI với thuộc tính inputProps tùy chỉnh",
+  "badgeText": "DECLARATIVE VIDEO ENGINE",
+  "primaryColor": "#10B981",
+  "secondaryColor": "#3B82F6",
+  "stats": [
+    { "label": "Resolution", "value": "1920x1080" },
+    { "label": "Frame Rate", "value": "30 FPS" },
+    { "label": "Engine", "value": "React + FFmpeg" }
+  ],
+  "ctaText": "Triển khai ngay với npx remotion render"
+}
+
